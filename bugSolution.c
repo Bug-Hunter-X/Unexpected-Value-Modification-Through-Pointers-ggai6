@@ -1,0 +1,1 @@
+The original program correctly modifies the value of 'x' through the pointer 'ptr'.  However, this example demonstrates how to avoid unexpected side effects by being very careful of pointer assignment and dereferencing.
