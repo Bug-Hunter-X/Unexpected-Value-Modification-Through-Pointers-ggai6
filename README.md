@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases a common pitfall when working with pointers.  The program appears straightforward but contains a subtle error in its logic that modifies the value of a variable in an unexpected way. This example highlights the importance of understanding pointer arithmetic and memory management in C.
